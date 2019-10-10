@@ -1,0 +1,19 @@
+{
+  "name": "bcf-test",
+  "version": "1.0.1",
+  "description": "自定义模块\r 实现调用功能",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyz962711618/electron-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyz962711618/electron-node/issues"
+  },
+  "homepage": "https://github.com/tyz962711618/electron-node#readme"
+}
